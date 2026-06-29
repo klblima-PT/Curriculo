@@ -87,6 +87,24 @@ technologies = [
     "CI/CD"
 ]
 ```
+education = [
+    "MBA in Data Science — USP ESALQ",
+    "Bachelor's Degree in Information Technology — University Ibirapuera"
+]
+
+certifications = [
+    "Google Cloud Certified Digital Leader",
+    "Databricks Certified Data Engineer Associate",
+    "Apache Airflow Fundamentals – Astronomer",
+    "Scrum Foundation Professional Certificate",
+    "DevOps Essential Professional Certificate"
+]
+
+languages = {
+    "Portuguese": "Native",
+    "English": "Intermediate",
+    "Spanish": "Intermediate"
+}
 
 ## Author
 
